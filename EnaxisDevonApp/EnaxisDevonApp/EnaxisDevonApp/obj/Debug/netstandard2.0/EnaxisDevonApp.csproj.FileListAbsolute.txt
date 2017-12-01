@@ -1,0 +1,16 @@
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\bin\Debug\netstandard2.0\EnaxisDevonApp.deps.json
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\bin\Debug\netstandard2.0\EnaxisDevonApp.dll
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\bin\Debug\netstandard2.0\EnaxisDevonApp.pdb
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.csproj.CoreCompileInputs.cache
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.App.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.Views.Alert.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.Views.Contacts.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.Views.Home.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.Views.Login.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.Views.RequestAccess.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.Views.Summary.xaml.g.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.AssemblyInfoInputs.cache
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.AssemblyInfo.cs
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.dll
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.pdb
+C:\dev\Devon_Energy_App\Enaxis-1\EnaxisDevonApp\EnaxisDevonApp\EnaxisDevonApp\obj\Debug\netstandard2.0\EnaxisDevonApp.csprojResolveAssemblyReference.cache

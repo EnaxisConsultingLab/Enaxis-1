@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    prism:ViewModelLocator.AutowireViewModel="True"
+	xmlns:local="clr-namespace:EnaxisDevonApp.Views;assembly=EnaxisDevonApp"
+    x:Class="EnaxisDevonApp.Views.Summary"
+    Title="Summary">
+
+
+
+	  <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+          <Label Text="Summary" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label x:Name="lblJsonResut" LineBreakMode="CharacterWrap" FontSize="Small"/>
+            <Label Text="{Binding Items[0].WebId}" LineBreakMode="CharacterWrap" FontSize="Small"/>
+            <Label TextColor="#77d065" FontSize = "20" Text="This is a label." />
+    </StackLayout>
+    
+
+</ContentPage>
+
